@@ -36,7 +36,7 @@ npx expo start
 ---
 
 ### Firebase Configuration
-- A working `.env` file is included for preview purposes. The access rules allow for writing in the `users/` collection to showcase the registration of new users only.
+- A working `firebaseConfig.js` file is included for preview purposes. The access rules allow for writing in the `users/` collection to showcase the registration of new users only.
 - This environment is for **testing only** please do not misuse the public access.
 
 
