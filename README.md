@@ -33,6 +33,7 @@ npm install
 npx expo start
 ```
 You can create a new user via the **register** page and then login with those details. 
+
 ---
 
 ### Firebase Configuration
